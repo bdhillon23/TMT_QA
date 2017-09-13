@@ -45,7 +45,7 @@ function loginUP(){
 	if(Username1 != "Username" && Password1 != "Password")
 	
 	{
-		document.write(" Please Vaildate this user ");
+		document.write(" Please Vaildate this user with username as " );
 		
 	}
 	
