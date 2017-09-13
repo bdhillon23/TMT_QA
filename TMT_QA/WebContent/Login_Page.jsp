@@ -18,7 +18,7 @@
 <div class="form-title">
 
 <span class="form-title"> Welcome to Team Management Tool </span><br>
-<span class="form-subtitle"> Please login to Access. </span>
+<span class= "form-subtitle"> Please login to Access. </span>
 
 </div>
 
